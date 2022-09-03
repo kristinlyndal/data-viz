@@ -5,7 +5,7 @@
 Live site>> https://kristinlyndal.github.io/data-viz/ 
 
 ## About Me
-* Kristin L Garbarino (She/Her)
+<b>Kristin L Garbarino (She/Her)</b>
 
 As the Associate Marketing Director for Carnegie Mellon University’s Tepper School of Business, Kristin oversees the school’s marketing and advertising. One of her most proud moments was the launch of Tepper’s 2021 brand repositioning: The Intelligent Future. Kristin was nominated by Tepper School Dean Isabelle Bajeux to participate in the 2022 Carnegie Mellon Executive Leadership Academy, which is designed for high-performing leaders within the university.
 
