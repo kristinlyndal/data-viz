@@ -1,8 +1,7 @@
 # data-viz
-# Telling Stories with Data
-# Fall 2022
+# Telling Stories with Data, Fall 2022
 
-Live site>> https://kristinlyndal.github.io/data-viz/ 
+Live site>> [https://kristinlyndal.github.io/data-viz/](https://kristinlyndal.github.io/data-viz/) 
 
 ## About Me
 <b>Kristin L Garbarino (She/Her)</b>
