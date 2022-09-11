@@ -17,8 +17,10 @@
 
 # Author's Note
 
-This data was pulled from OEDC's section on general government debt. The first and third visualizations focus soley on 2019, and the second visualization shows a range by country from 1995 to 2019 depending on information available by year and country. 
+This data was pulled from OEDC's section on general government debt. These visualizations focus on the country, year, and debt-to-GDP ratio.  The first and third visualizations focus soley on 2019. The second visualization shows a range by country from 1995 to 2019 depending on information available by year and country, and the fourth from 1995 to 2021. 
 
-Looking at all countries in 2019, I asked myself, how much debt is healthy? Wealthier countries tend to have a higher debt-to-GDP ratio than poorer countries. Some wealther countries, like Switzerland and Germany, buck this trend and have a significantly lower ratio. On the opposite end is Japan, whose debt far out weighs their wealthy peers. This led me to compairing thhe G7 countries, a set of the most powerful, first-world countries. 
+Looking at all countries in 2019, I asked myself, how much debt is healthy? Wealthier countries tend to have a higher debt-to-GDP ratio than poorer countries. Some wealther countries, like Switzerland and Germany, buck this trend and have a significantly lower ratio. On the opposite end is Japan, whose debt far out weighs their wealthy peers. This led me to compairing the G7 countries, a set of the most powerful, first-world countries. 
 
 I tried a few different chart types before landing on the Hierarchy Treemap. With this visualization, we can see that Japan's debt is nearly as large as the United States and Canada combined. When compaired with their European counterparts, Japan's debt seems astromonical as we see that is the debt of more than two major European countries combined. 
+
+This exercise showed me that when there is a lot of data, a bar chart or table works best (at least given my design/creation skills thus far). In order to use a different visualization structure, I needed to focus on a small subset of the data. Once when I was trying to use a larger amount of data, I wound up creating a bar chart without even realizing. 
