@@ -7,11 +7,11 @@
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/11147078"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-# Japan's Debt Highest in G7
+# Japan's Debt Highest Ratio in G7
 
 <div class="flourish-embed flourish-hierarchy" data-src="visualisation/11151609"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-# Author's Notee
+# Author's Note
 
 This data was pulled from OEDC's section on general government debt. The first and third visualizations focus soley on 2019, and the second visualization shows a range by country from 1995 to 2019 depending on information available by year and country. 
 
