@@ -8,6 +8,5 @@
 <div class="flourish-embed flourish-chart" data-src="visualisation/11147078"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 # Japan's Debt Highest in G7
-## Comparison of Government Debt to GDP in 2019
 
 <div class="flourish-embed flourish-hierarchy" data-src="visualisation/11151609"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
