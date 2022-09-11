@@ -2,7 +2,8 @@
 # Telling Stories with Data, Fall 2022
 
 Live site>> [https://kristinlyndal.github.io/data-viz/](https://kristinlyndal.github.io/data-viz/) 
-Data Visualization>> [Dataviz2](/dataviz2.md)
+
+Data Visualization>> [Government Debt](/GovernmentDebt.md)
 
 ## About Me
 <b>Kristin L Garbarino (She/Her)</b>
