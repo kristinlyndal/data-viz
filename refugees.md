@@ -10,6 +10,10 @@ In 2017, my husband and I were a mentor family to a refugee family from Rwanda t
 
 When I first saw this graph, I was excited to find this kind of data. I thought the graph was good, but not great; a few design tweaks could help it sing. It wasn't until after looking at it for a while that I saw what was happening in 2021 and 2022. 
 
+## First Sketch
+
+![sketch1](https://user-images.githubusercontent.com/112270597/191123572-1be0dd92-66cd-4deb-b926-5e2c0fb3082e.jpeg)
+
 
 ## Reimagined
 
