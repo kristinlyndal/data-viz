@@ -2,7 +2,7 @@
 
 Refugee support in my country is a topic that is incredibly important to me. I believe we have an obligation to welcome refugees to the United States in an organized manner. 
 
-In 2017, my husband and I were a mentor family to a refugee family from Rwanda through Pittsburgh's [Hello Neighbor](https://helloneighbor.io). After that we became founding members of the mentor advisory board. I continued to deepen my work for Hello Neighbor this year and joined the board of directors.
+In 2017, my husband and I were a mentor family to a refugee family from Rwanda through Pittsburgh's [Hello Neighbor](https://helloneighbor.io), and I proudly serve on their board of directors. 
 
 ## Refugee Resettlement Data
 
@@ -13,6 +13,8 @@ When I first saw this graph, I was excited to find this kind of data. I thought 
 ## First Sketch
 
 ![sketch1](https://user-images.githubusercontent.com/112270597/191123572-1be0dd92-66cd-4deb-b926-5e2c0fb3082e.jpeg)
+
+I showed this first sketch to an early 30s female. I was shocked when she told me this looked like a right-wing meme.
 
 
 ## Reimagined
