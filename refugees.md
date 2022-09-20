@@ -1,6 +1,8 @@
 # A Dive Into Data on Refugees in the United States
 
-Refugee support in my country is a topic that is incredibly important to me. I believe we have an obligation to welcome refugees to the United States in an organized manner. 
+Refugee support in my country is a topic that is incredibly important to me. I believe we have an obligation to welcome refugees to the United States in an organized manner.
+
+According to UNHCR, there are currently 84 million forcibly displaced people in the world today, more than any other time in history. 35 million of those forcibly displaced are children below 18 years of age. 
 
 In 2017, my husband and I were a mentor family to a refugee family from Rwanda through Pittsburgh's [Hello Neighbor](https://helloneighbor.io), and I proudly serve on their board of directors. 
 
@@ -8,11 +10,21 @@ In 2017, my husband and I were a mentor family to a refugee family from Rwanda t
 
 <img width="850" alt="Screen Shot 2022-09-19 at 4 49 28 PM" src="https://user-images.githubusercontent.com/112270597/191115229-1ffbbec3-292d-4bae-9e1e-a607346d964a.png">
 
-When I first saw this graph, I was excited to find this kind of data. I thought the graph was good, but not great; a few design tweaks could help it sing. It wasn't until after looking at it for a while that I saw what was happening in 2021 and 2022. 
+When I first saw this graph, I was excited to find this kind of data. I thought the graph was good, but not great; a few design tweaks could help it sing. 
+
+It wasn't until after looking at it for a while that I saw what was happening in 2021 and 2022. Despite raising the annual ceiling in 2021 and 2022, the Biden Administration has barely increased the number of refugees actually being resettled in the US. In 2022, there are an alarming number of spots left unfilled. It's one thing for our government to say they will do something and have good intentions, but it's really the results that matter. We must hold our government accountable. This is when I decided to tell a relevant story with the data about what is happening now. 
+
+## Critique
+
+When rating the data based on Stephen Few's Data Visualization Effectiveness Profile, the strengths are clear. This graph is useful, pretty complete, and very truthful. It can use some improvement on preceptibility, intuitiveness, and aesthetics. It's engagement is the biggest weakness. 
 
 ## First Sketch
 
 ![sketch1](https://user-images.githubusercontent.com/112270597/191123572-1be0dd92-66cd-4deb-b926-5e2c0fb3082e.jpeg)
+
+
+
+## User Testing
 
 I showed this first sketch to an early 30s female. I was shocked when she told me this looked like a right-wing meme.
 
