@@ -22,11 +22,13 @@ When rating the data based on Stephen Few's Data Visualization Effectiveness Pro
 
 ![sketch1](https://user-images.githubusercontent.com/112270597/191123572-1be0dd92-66cd-4deb-b926-5e2c0fb3082e.jpeg)
 
-Engagement: Based on my critique, I decided to first tackle engagement and focusing on the gap between the ceiling and number admitted. I took this information and made it into a bar chart that sorted in ascending order. I simplified the amount of data presented to highlight the story I wanted to tell: this year's gap between ceiling and admitted is the highest since 1980, by nearly double. 
+**Engagement:** Based on my critique, I decided to first tackle engagement and focusing on the gap between the ceiling and number admitted. I took this information and made it into a bar chart that sorted in ascending order. I simplified the amount of data presented to highlight the story I wanted to tell: this year's gap between ceiling and admitted is the highest since 1980, by nearly double. 
 
-Perceptibility and Intuitiveness: Not everyone know's what FY means, so I wrote out fiscal year rather than abreviating it. Rather than make the user toggle between to dots, I made the math easy and listed the total number of spots open (annual ceiling minus number of admitted refugees). 
+**Perceptibility and Intuitiveness:** Not everyone know's what FY means, so I wrote out fiscal year rather than abreviating it. Rather than make the user toggle between to dots, I made the math easy and listed the total number of spots open (annual ceiling minus number of admitted refugees). 
 
-Aesthetics: I removed grid lines, unnecessary bold, and serif font, which weighed the previous graph down. 
+**Aesthetics:** I removed grid lines, unnecessary bold, and serif font, which weighed the previous graph down. 
+
+**Update:** I updated the data to include resettlement numbers through August 31, 2022. During my research I found an article on [CBSnews.com](https://www.cbsnews.com/news/us-2023-refugee-cap-125000/) about resettlement during 2022. I think my redesigned graph would work well in an article like this. 
 
 ## User Testing
 
@@ -44,7 +46,7 @@ I thought about the fact that he probably knew more about refugees in the US tha
 * Added second sub headline: Despite doubling the spots available for refugee admission to the United States in 2022, most spots go unfilled during Afghan and Ukrainian crises.
 
 
-## Reimagined
+## Design in Tableau
 
 # With One Month Left, Biden Administration Leaves Over 100,000 Open Refugee Spots Unfilled
 ### Despite doubling the spots available for refugee admission to the United States in 2022, most spots go unfilled during Afghan and Ukrainian crises. 
@@ -59,4 +61,5 @@ I thought about the fact that he probably knew more about refugees in the US tha
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 *Fiscal Year 2022 data from October 1, 2021 to August 31, 2022.
+
 Source: [Migration Policy Institute](https://www.migrationpolicy.org/programs/data-hub/charts/us-refugee-resettlement)
