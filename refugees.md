@@ -16,13 +16,17 @@ It wasn't until after looking at it for a while that I saw what was happening in
 
 ## Critique
 
-When rating the data based on Stephen Few's Data Visualization Effectiveness Profile, the strengths are clear. This graph is useful, pretty complete, and very truthful. It can use some improvement on preceptibility, intuitiveness, and aesthetics. It's engagement is the biggest weakness. 
+When rating the data based on Stephen Few's Data Visualization Effectiveness Profile, the strengths are clear. This graph is useful, pretty complete, and very truthful. It can use some improvement on preceptibility, intuitiveness, and aesthetics. Engagement is the biggest weakness. 
 
 ## First Sketch
 
 ![sketch1](https://user-images.githubusercontent.com/112270597/191123572-1be0dd92-66cd-4deb-b926-5e2c0fb3082e.jpeg)
 
+Engagement: Based on my critique, I decided to first tackle engagement and focusing on the gap between the ceiling and number admitted. I took this information and made it into a bar chart that sorted in ascending order. I simplified the amount of data presented to highlight the story I wanted to tell: this year's gap between ceiling and admitted is the highest since 1980, by nearly double. 
 
+Perceptibility and Intuitiveness: Not everyone know's what FY means, so I wrote out fiscal year rather than abreviating it. Rather than make the user toggle between to dots, I made the math easy and listed the total number of spots open (annual ceiling minus number of admitted refugees). 
+
+Aesthetics: I removed grid lines, unnecessary bold, and serif font, which weighed the previous graph down. 
 
 ## User Testing
 
