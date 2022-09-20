@@ -30,7 +30,18 @@ Aesthetics: I removed grid lines, unnecessary bold, and serif font, which weighe
 
 ## User Testing
 
-I showed this first sketch to an early 30s female. I was shocked when she told me this looked like a right-wing meme.
+I showed this first sketch to an early 30s female. I was shocked when she emotionally told me this looked like an "ultra right-wing meme on Facebook." I realized that I hadn't cited my source (palm to forehead). 
+
+I told her to imagine that this was shown on a reputable news site and that all of the data is accurate. She told me it still felt skewed because of the dates, it felt like dates were being cherry picked because the dates jumped around. 
+
+After this conversation, I made the following adjustments:
+* Added a sub headline: Top Fiscal Years with Refugee Spots Left Unfilled 1980-2022 
+* Added my source: Source: Migration Policy Institute
+
+I then showed this slightly adjusted sketch to a mid 40s male. He said he understood that this year had nearly double the spots left unfilled as any other year since 1980. He thought it was critical of Biden, but since he already knew about the problems with bringing refugees into the US and how behind we are, the data made sense. 
+
+I thought about the fact that he probably knew more about refugees in the US than most readers, and I decided that I should add a little more context to up the "trustworthy" factor:
+* Added second sub headline: Despite doubling the spots available for refugee admission to the United States in 2022, most spots go unfilled during Afghan and Ukrainian crises.
 
 
 ## Reimagined
@@ -47,5 +58,5 @@ I showed this first sketch to an early 30s female. I was shocked when she told m
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
-* Fiscal Year 2022 data from October 1, 2021 to August 31, 2022.
+*Fiscal Year 2022 data from October 1, 2021 to August 31, 2022.
 Source: [Migration Policy Institute](https://www.migrationpolicy.org/programs/data-hub/charts/us-refugee-resettlement)
