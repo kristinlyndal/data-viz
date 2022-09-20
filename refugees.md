@@ -6,7 +6,7 @@ According to UNHCR, there are currently 84 million forcibly displaced people in 
 
 In 2017, my husband and I were a mentor family to a refugee family from Rwanda through Pittsburgh's [Hello Neighbor](https://helloneighbor.io), and I proudly serve on their board of directors. 
 
-## Refugee Resettlement Data
+## Data Visualization on Refugee Resettlement
 
 <img width="850" alt="Screen Shot 2022-09-19 at 4 49 28 PM" src="https://user-images.githubusercontent.com/112270597/191115229-1ffbbec3-292d-4bae-9e1e-a607346d964a.png">
 
@@ -14,17 +14,28 @@ When I first saw this graph, I was excited to find this kind of data. I thought 
 
 It wasn't until after looking at it for a while that I saw what was happening in 2021 and 2022. Despite raising the annual ceiling in 2021 and 2022, the Biden Administration has barely increased the number of refugees actually being resettled in the US. In 2022, there are an alarming number of spots left unfilled. It's one thing for our government to say they will do something and have good intentions, but it's really the results that matter. We must hold our government accountable. This is when I decided to tell a relevant story with the data about what is happening now. 
 
-## Critique
+## Critique the Data Visualization 
 
 When rating the data based on Stephen Few's Data Visualization Effectiveness Profile, the strengths are clear. This graph is useful, pretty complete, and very truthful. It can use some improvement on preceptibility, intuitiveness, and aesthetics. Engagement is the biggest weakness. 
 
-## First Sketch
+* **Usefulness:** MPI’s visualization is very useful. Understanding trends in the annual ceiling and number of admitted refugees is incredibly valuable information, especially during a refugee crisis as we are now in with Afghan and Ukranian refugees. The graph presents a digestible amount of data. 
+* **Completeness:** The visualization is easy to understand, though the scale makes it challenging to visually connect the year of annual ceiling with the year of number of admitted refugees in some places. Measures of the norm and historical values are very clear and complete. However, while the user could figure out the number of refugees that could have been admitted given the ceiling but were not, the user would need to do some easy math to determine this number.
+* **Truthfulness:** The visualization is accurate and valid. A spot check on the data from other sources validates that correct, accurate information is presented. The scales are consistent and nothing is skewed. 
+* **Aesthetics:** The aesthetics, while not beautiful, are certainly not ugly. The grid lines weigh it down, as does unnecessary bold, serif font, repetition of “K” in the y-axis. The colors are distinct, but perhaps a different hue would be more visually pleasing. 
+* **Intuitiveness:** The graph is intuitive and communicates clearly the historial numbers for annual ceiling and number of admitted refugees. Not everyone will know what “FY” means, so that should be written out and clarified, especially a fiscal year of Oct 1 to Sep 30, which is untraditional. 
+If someone is unfamiliar with the exact definition of refugee, the webpage provides an explanation. What is not as intuitive and easy to comprehend is the number of refugee spots left unfilled each year. It is easy to look past 2022, where the crucial information is, and focus on the earlier years. Why else would the designer have decided to include 3/4s of 2022 if that is not crucial to this graph? Including 3/4s of a year convolutes and complicates the graph; but it does so for a very good reason.
+* **Perceptibility:** Perceptibility is good but not great. There are a lot of simple tweaks that would make this chart much easier to read. There are more grid lines than necessary and too much bold. A san-serif font would be easier to read. The repetition of “K” in the y-axis is not needed if (in thousands) is added to the label. The “Refugees Admitted” label could be turned to make it easier to read, in addition there isn’t enough space between the y-axis label and counts. Not everyone knows what FY means, so this likely convolutes the title. And it is challenging to visually match up the dots year-to-year when there is space between Annual ceiling and Number of admitted refugees. Most importantly, the user would need to do some basic math to determine the number of refugee spots left unfilled each year, which is really the most important information on this chart. Given that it is challenging to visually match up the dots year-to-year, this is all the more challenging. That said, there are also a lot of good qualities to the graph that make it clear. The visualization type is appropriate. There is a simple amount of information presented. The colors are contrasting, easy to distinguish, and not overwhelming. The year is appropriately on the x-axis running left to right. 
+* **Engagement:** It could be easy to miss a major point of this graph: despite drastically raising the annual refugee resettlement ceiling, the Biden Administration is leaving the largest number of refugee spots unfilled since 1980. This point would inspire people to talk about the data and to want to know why this is happening. 
+
+
+
+## Sketch Out a Solution 
 
 ![sketch1](https://user-images.githubusercontent.com/112270597/191123572-1be0dd92-66cd-4deb-b926-5e2c0fb3082e.jpeg)
 
-**Engagement:** Based on my critique, I decided to first tackle engagement and focusing on the gap between the ceiling and number admitted. I took this information and made it into a bar chart that sorted in ascending order. I simplified the amount of data presented to highlight the story I wanted to tell: this year's gap between ceiling and admitted is the highest since 1980, by nearly double. 
+**Engagement:** Based on my critique, I decided to first tackle engagement and focus on the gap between the ceiling and number admitted. I took this information and made it into a bar chart that sorted in ascending order. I simplified the amount of data presented to highlight the story I wanted to tell: this year's gap between ceiling and admitted is the highest since 1980, by nearly double. 
 
-**Perceptibility and Intuitiveness:** Not everyone know's what FY means, so I wrote out fiscal year rather than abreviating it. Rather than make the user toggle between to dots, I made the math easy and listed the total number of spots open (annual ceiling minus number of admitted refugees). 
+**Perceptibility and Intuitiveness:** Not everyone knows what FY means, so I wrote out fiscal year rather than abbreviating it. Rather than make the user toggle between to dots, I made the math easy and listed the total number of spots open (annual ceiling minus number of admitted refugees). 
 
 **Aesthetics:** I removed grid lines, unnecessary bold, and serif font, which weighed the previous graph down. 
 
@@ -46,7 +57,7 @@ I thought about the fact that he probably knew more about refugees in the US tha
 * Added second sub headline: Despite doubling the spots available for refugee admission to the United States in 2022, most spots go unfilled during Afghan and Ukrainian crises.
 
 
-## Design in Tableau
+## Design in Tableau: Build a Solution
 
 # With One Month Left, Biden Administration Leaves Over 100,000 Open Refugee Spots Unfilled
 ### Despite doubling the spots available for refugee admission to the United States in 2022, most spots go unfilled during Afghan and Ukrainian crises. 
