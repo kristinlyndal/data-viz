@@ -16,7 +16,7 @@ It wasn't until after looking at it for a while that I saw what was happening in
 
 ## Critique the Data Visualization 
 
-When rating the data based on Stephen Few's Data Visualization Effectiveness Profile, the strengths are clear. This graph is useful, pretty complete, and very truthful. It can use some improvement on preceptibility, intuitiveness, and aesthetics. Engagement is the biggest weakness. 
+When rating the data based on Stephen Few's Data Visualization Effectiveness Profile, the strengths are clear. This graph is useful, pretty complete, and very truthful. It can use some improvement on perceptibility, intuitiveness, and aesthetics. Engagement is the biggest weakness. 
 
 * **Usefulness:** MPI’s visualization is very useful. Understanding trends in the annual ceiling and number of admitted refugees is incredibly valuable information, especially during a refugee crisis as we are now in with Afghan and Ukranian refugees. The graph presents a digestible amount of data. 
 * **Completeness:** The visualization is easy to understand, though the scale makes it challenging to visually connect the year of annual ceiling with the year of number of admitted refugees in some places. Measures of the norm and historical values are very clear and complete. However, while the user could figure out the number of refugees that could have been admitted given the ceiling but were not, the user would need to do some easy math to determine this number.
@@ -35,7 +35,7 @@ If someone is unfamiliar with the exact definition of refugee, the webpage provi
 
 **Engagement:** Based on my critique, I decided to first tackle engagement and focus on the gap between the ceiling and number admitted. I took this information and made it into a bar chart that sorted in ascending order. I simplified the amount of data presented to highlight the story I wanted to tell: this year's gap between ceiling and admitted is the highest since 1980, by nearly double. 
 
-**Perceptibility and Intuitiveness:** Not everyone knows what FY means, so I wrote out fiscal year rather than abbreviating it. Rather than make the user toggle between to dots, I made the math easy and listed the total number of spots open (annual ceiling minus number of admitted refugees). 
+**Perceptibility and Intuitiveness:** Not everyone knows what FY means, so I wrote out fiscal year rather than abbreviating it. Rather than make the user toggle between the dots, I made the math easy and listed the total number of spots open (annual ceiling minus number of admitted refugees). 
 
 **Aesthetics:** I removed grid lines, unnecessary bold, and serif font, which weighed the previous graph down. 
 
@@ -79,7 +79,7 @@ Source: [Migration Policy Institute](https://www.migrationpolicy.org/programs/da
 
 One final test, this time with my classmates. They found the chart compelling. They thought it still read as critical of Biden but not untrustworthy. They suggested that I make the 2022 bar red to make it look like an alert.
 
-They said the missed some of the other data in the original chart, and they would like a comparison between the ceiling and number of admitted, where my redesign only showed the gap. I agree that the original chart has value, but it's not the story I want to tell. I hopped into office hours to discuss and decided to keep that aspect as is.
+They said they missed some of the other data in the original chart, and they would like a comparison between the ceiling and number of admitted, where my redesign only showed the gap. I agree that the original chart has value, but it's not the story I want to tell. I hopped into office hours to discuss and decided to keep that aspect as is.
 
 ## Final Solution
 
