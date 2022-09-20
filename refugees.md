@@ -60,6 +60,8 @@ I thought about the fact that he probably knew more about refugees in the US tha
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
-*Fiscal Year 2022 data from October 1, 2021 to August 31, 2022.
+<div style="text-align: right"> *Fiscal Year 2022 data from October 1, 2021 to August 31, 2022.
 
-Source: [Migration Policy Institute](https://www.migrationpolicy.org/programs/data-hub/charts/us-refugee-resettlement)
+Source: [Migration Policy Institute](https://www.migrationpolicy.org/programs/data-hub/charts/us-refugee-resettlement)</div>
+
+## In-Class User Test
