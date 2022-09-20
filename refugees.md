@@ -43,7 +43,7 @@ If someone is unfamiliar with the exact definition of refugee, the webpage provi
 
 ## User Testing
 
-I showed this first sketch to an early 30s female. I was shocked when she emotionally told me this looked like an "ultra right-wing meme on Facebook." I realized that I hadn't cited my source (palm to forehead). 
+I showed this first sketch to an early 30s art museum interpreter. I was shocked when she emotionally told me this looked like an "ultra right-wing meme on Facebook." I realized that I hadn't cited my source (palm to forehead). 
 
 I told her to imagine that this was shown on a reputable news site and that all of the data is accurate. She told me it still felt skewed because of the dates; it felt like dates were being cherry picked because the dates jumped around. 
 
@@ -51,7 +51,7 @@ After this conversation, I made the following adjustments:
 * Added a sub headline: Top Fiscal Years with Refugee Spots Left Unfilled 1980-2022 
 * Added my source: Source: Migration Policy Institute
 
-I then showed this slightly adjusted sketch to a mid 40s male. He said he understood that this year had nearly double the spots left unfilled as any other year since 1980. He thought it was critical of Biden, but since he already knew about the problems with bringing refugees into the US and how behind we are, the data made sense. 
+I then showed this slightly adjusted sketch to a mid 40s refugee advocate. He said he understood that this year had nearly double the spots left unfilled as any other year since 1980. He thought it was critical of Biden, but since he already knew about the problems with bringing refugees into the US and how behind we are, the data made sense. 
 
 I thought about the fact that he probably knew more about refugees in the US than most readers, and I decided that I should add a little more context to up the "trustworthy" factor:
 * Added second sub headline: Despite doubling the spots available for refugee admission to the United States in 2022, most spots go unfilled during Afghan and Ukrainian crises.
@@ -76,3 +76,22 @@ I thought about the fact that he probably knew more about refugees in the US tha
 Source: [Migration Policy Institute](https://www.migrationpolicy.org/programs/data-hub/charts/us-refugee-resettlement)</div>
 
 ## In-Class User Test
+
+One final test, this time with my classmates. They found the chart compelling. They thought it still read as critical of Biden but not untrustworthy. They suggested that I make the 2022 bar red to make it look like an alert.
+
+They said the missed some of the other data in the original chart, and they would like a comparison between the ceiling and number of admitted, where my redesign only showed the gap. I agree that the original chart has value, but it's not the story I want to tell. I hopped into office hours to discuss and decided to keep that aspect as is.
+
+## Final Solution
+
+# With One Month Left, Biden Administration Leaves Over 100,000 Open Refugee Spots Unfilled
+### Despite doubling the spots available for refugee admission to the United States in 2022, most spots go unfilled during Afghan and Ukrainian crises.
+
+<div class='tableauPlaceholder' id='viz1663717268981' style='position: relative'><noscript><a href='#'><img alt='Top Fiscal Years with Refugee Spots Left Unfilled from 1980-2022 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;US&#47;USRefugeeUnfilledSpots1980to2022_update&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='USRefugeeUnfilledSpots1980to2022_update&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;US&#47;USRefugeeUnfilledSpots1980to2022_update&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
+<script type='text/javascript'>                    
+  var divElement = document.getElementById('viz1663717268981');                    
+  var vizElement = divElement.getElementsByTagName('object')[0];                    
+  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+  var scriptElement = document.createElement('script');                    
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
