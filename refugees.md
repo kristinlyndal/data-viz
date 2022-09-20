@@ -73,7 +73,7 @@ I thought about the fact that he probably knew more about refugees in the US tha
 </script>
 *Fiscal Year 2022 data from October 1, 2021 to August 31, 2022.
 
-Source: [Migration Policy Institute](https://www.migrationpolicy.org/programs/data-hub/charts/us-refugee-resettlement)</div>
+Source: [Migration Policy Institute](https://www.migrationpolicy.org/programs/data-hub/charts/us-refugee-resettlement)
 
 ## In-Class User Test
 
