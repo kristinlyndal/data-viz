@@ -79,7 +79,7 @@ Source: [Migration Policy Institute](https://www.migrationpolicy.org/programs/da
 
 One final test, this time with my classmates. They found the chart compelling. They thought it still read as critical of Biden but not untrustworthy. They suggested that I make the 2022 bar red to make it look like an alert.
 
-They said they missed some of the other data in the original chart, and they would like a comparison between the ceiling and number of admitted, where my redesign only showed the gap. I agree that the original chart has value, but it's not the story I want to tell. I hopped into office hours to discuss and decided to keep that aspect as is.
+They said they missed some of the other data in the original chart, and they would like a comparison between the ceiling and number of admitted, where my redesign only showed the gap. I agree that the original chart has value, but it's not the story I want to tell. I hopped into office hours to discuss and decided to keep that aspect as-is.
 
 ## Final Solution
 
