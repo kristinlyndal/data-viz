@@ -10,7 +10,7 @@ In 2017, my husband and I were a mentor family to a refugee family from Rwanda t
 
 <img width="850" alt="Screen Shot 2022-09-19 at 4 49 28 PM" src="https://user-images.githubusercontent.com/112270597/191115229-1ffbbec3-292d-4bae-9e1e-a607346d964a.png">
 
-When I first saw this graph, I was excited to find this kind of data. I thought the graph was good, but not great; a few design tweaks could help it sing. 
+When I first saw this [graph from the Migration Policy Institute](https://www.migrationpolicy.org/programs/data-hub/charts/us-refugee-resettlement), I was excited to find this kind of data. I thought the graph was good, but not great; a few design tweaks could help it sing. 
 
 It wasn't until after looking at it for a while that I saw what was happening in 2021 and 2022. Despite raising the annual ceiling in 2021 and 2022, the Biden Administration has barely increased the number of refugees actually being resettled in the US. In 2022, there are an alarming number of spots left unfilled. It's one thing for our government to say they will do something and have good intentions, but it's really the results that matter. We must hold our government accountable. This is when I decided to tell a relevant story with the data about what is happening now. 
 
