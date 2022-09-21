@@ -96,4 +96,6 @@ They said they missed some of the other data in the original chart, and they wou
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
+
+
 Design Note: I tried to figure out a way to trim the white space under my Tableau charts. A lot of clicking around and several Google searchs didn't yet lead me to the answer, but this is something I hope to fix in the future.
