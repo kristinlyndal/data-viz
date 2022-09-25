@@ -1,13 +1,13 @@
 # Outline 
 
-**High-level summary: 
+**High-level summary:** 
 My final project focuses on Refugee Resettlement to the United States. Many know the stories of war-torn tragedy that results in refugee crises; the Ukrainian Refugee Crisis is only the latest to make headlines. Fear of letting in terrorist and losing out on jobs may make people disapprove of Refugee Resettlement. What people often don’t know is that it is incredibly safe to welcome refugees and they benefit the economy. 
 
-**Project structure:
+**Project structure:** 
 * Opening: Imagine fleeing your home. 
 * Set-up: We all know the altruistic reasons to resettle refugees to the US. But you might not know how bringing refugees to our community helps you. 
 *“Ah Ha” Moment #1: 
-* Myth: Bringing in refugees will just let in terrorists. 
+*  Myth: Bringing in refugees will just let in terrorists. 
 * Fact: A robust vetting process makes resettling refugees safe.
 * “Ah Ha” Moment #2: 
 * Myth: Bringing in refugees just costs us money and is a drain on our economy.
@@ -27,7 +27,7 @@ My final project focuses on Refugee Resettlement to the United States. Many know
 
 # The Data
 
-**Refugee Vetting Process
+**Refugee Vetting Process** 
 
 To visualize the refugee vetting process, I’ll use information from U.S. Citizenship and Immigration Services that explains the process. This information is written out, and I plan to present it more visually and in an estimated timeline. While this won’t use numeric data, it will use qualitative information in an “idea illustration.”
 
@@ -38,7 +38,7 @@ Information Source: The New York Times, “Refugees Entering the U.S. Already
 Face a Rigorous Vetting Process”
 https://www.nytimes.com/interactive/2017/01/29/us/refugee-vetting-process.html 
 
-**Refugees Pay Taxes and Grow the Economy
+**Refugees Pay Taxes and Grow the Economy** 
 
 For this section, I will use data that was leaked from the Department of Health and Human Services by The New York Times. The data presents the fiscal expenditures for and revenues from refugees from 2005 to 2014. The data shows net positive revenue from refugees in the form of a simple excel-style chart. I’ll plan to use a more visually compelling design. 
 
@@ -48,7 +48,7 @@ Total Expenditures Over 10 Years (page 26) and Table 8. Expenditures for Refugee
 Table 9. Revenues from Refugees, by Source (page 30) details how much refugees pay the government in taxes.
 Table 11. Annual Per Capita Fiscal Impact for Refugees and General U.S. Population, by Years (page 37) shows that Refugees pay more in taxes than the U.S population per capita. 
 
-**Refugee Admission Numbers
+**Refugee Admission Numbers** 
 
 To show the numbers of admitted refugees compared with the admission ceiling, I will use data from the Refugee Processing Center. This will demonstrate the need for more support to resettle refugees as there is a large gap between the ceiling and actual number of admitted refugees (nearly 105k in FY 2022). 
 
