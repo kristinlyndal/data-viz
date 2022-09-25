@@ -10,8 +10,8 @@ My final project focuses on Refugee Resettlement to the United States. Many know
     * Myth: Bringing in refugees will just let in terrorists. 
     * Fact: A robust vetting process makes resettling refugees safe.
 * “Ah Ha” Moment #2: 
-* Myth: Bringing in refugees just costs us money and is a drain on our economy.
-* Fact: Refugees pay more in taxes than they take and they help grow our economy.
+    * Myth: Bringing in refugees just costs us money and is a drain on our economy.
+    * Fact: Refugees pay more in taxes than they receive and they help grow our economy.
 * The Reality: Despite raising the refugee admission ceiling, we are not bringing in many refugees. 
 * Call-to-Action: You can support refugees in Pittsburgh through Hello Neighbor. Follow them on Instagram at @helloneighborhq to learn how you can volunteer. 
 
@@ -25,7 +25,7 @@ To demonstrated thiis long vetting process, I will show a timeline. The major im
 
 ![IMG-1956](https://user-images.githubusercontent.com/112270597/192165011-8e95365b-3ecb-4016-9de5-cd3f72588193.jpg)
 
-**Fact: Refugees pay more in taxes than they take and they help grow our economy.**
+**Fact: Refugees pay more in taxes than they receive.**
 
 This barchart sets up a compairson between the general U.S. Population and Refugees per capital. 
 
@@ -33,7 +33,7 @@ This barchart sets up a compairson between the general U.S. Population and Refug
 
 **The Reality: Despite raising the refugee admission ceiling, we are not bringing in many refugees.**
 
-This chart grounds the problem in today. 
+This chart grounds the problem in today. We know the altrustic reasons to resettle refugees to the United States, and now we know that we benefit from it. And yet, many spots are going unfilled.
 
 ![IMG-1958](https://user-images.githubusercontent.com/112270597/192165045-e3ae8e14-e5fa-4337-8c0d-a070b68c8467.jpg)
 
