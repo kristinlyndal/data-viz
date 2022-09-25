@@ -7,8 +7,8 @@ My final project focuses on Refugee Resettlement to the United States. Many know
 * Opening: Imagine fleeing your home. 
 * Set-up: We all know the altruistic reasons to resettle refugees to the US. But you might not know how bringing refugees to our community helps you. 
 *“Ah Ha” Moment #1: 
-*  Myth: Bringing in refugees will just let in terrorists. 
-* Fact: A robust vetting process makes resettling refugees safe.
+    * Myth: Bringing in refugees will just let in terrorists. 
+    * Fact: A robust vetting process makes resettling refugees safe.
 * “Ah Ha” Moment #2: 
 * Myth: Bringing in refugees just costs us money and is a drain on our economy.
 * Fact: Refugees pay more in taxes than they take and they help grow our economy.
