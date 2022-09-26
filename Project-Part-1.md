@@ -70,4 +70,4 @@ I will use Shorthand for the main medium. To determine the flow of the page, I w
 
 Quantitative charts will be created in Tableau, and qualitative information presented through Canva designs. These will first be thought through with sketches. 
 
-Photography will be an important element as well. Images in the public domain or with a creative commons license will be used.
+Photography will be an important element as well. Images in the public domain or with a Creative Commons license will be used.
