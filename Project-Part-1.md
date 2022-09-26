@@ -41,7 +41,7 @@ This chart grounds the problem in today. We know the altrustic reasons to resett
 
 **Refugee Vetting Process** 
 
-To visualize the refugee vetting process, I’ll use information from U.S. Citizenship and Immigration Services that explains the process. This information is written out, and I plan to present it more visually and in an estimated timeline. While this won’t use numeric data, it will use qualitative information in an “idea illustration.”
+To visualize the refugee vetting process, I’ll use information from U.S. Citizenship and Immigration Services that explains the process. This information is written out, and I plan to present it more visually and in an estimated timeline. While this won’t use numeric data, it will use qualitative information in an “idea illustration" and show non-statistical information. 
 
 Information Source: [U.S. Citizenship and Immigration Services, “Refugee Processing and Security Screening”](https://www.uscis.gov/humanitarian/refugees-and-asylum/refugees/refugee-processing-and-security-screening)
 
@@ -50,7 +50,7 @@ Face a Rigorous Vetting Process”](https://www.nytimes.com/interactive/2017/01/
 
 **Refugees Pay Taxes and Grow the Economy** 
 
-For this section, I will use data that was leaked from the Department of Health and Human Services by The New York Times. The data presents the fiscal expenditures for and revenues from refugees from 2005 to 2014. The data shows net positive revenue from refugees in the form of a simple excel-style chart. I’ll plan to use a more visually compelling design. 
+For this section, I will use data that was leaked from the Department of Health and Human Services by The New York Times. The data presents the fiscal expenditures for and revenues from refugees from 2005 to 2014. The data shows net positive revenue from refugees in the form of a simple table chart. I’ll plan to use a more visually compelling design. 
 
 Data Source: [Department of Health and Human Services, “The Fiscal Costs of the U.S. Refugee Admissions Program at the Federal, State, and Local  Levels, from 2005 - ­2014” Report, as published by The New York Times](https://www.nytimes.com/interactive/2017/09/19/us/politics/document-Refugee-Report.html) 
 
