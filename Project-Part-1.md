@@ -1,25 +1,25 @@
 # Outline 
 
 **High-level summary:** 
-My final project focuses on Refugee Resettlement to the United States. Many know the stories of war-torn tragedy that results in refugee crises; the Ukrainian Refugee Crisis is only the latest to make headlines. Fear of letting in terrorist and losing out on jobs may make people disapprove of Refugee Resettlement. What people often don’t know is that it is incredibly safe to welcome refugees and they benefit the economy. 
+My final project focuses on Refugee Resettlement to the United States. Many know the stories of war-torn tragedy that results in refugee crises; the Ukrainian Refugee Crisis is only the latest to make headlines. Fear of letting in terrorists and losing out on jobs may make people disapprove of Refugee Resettlement. What people often don’t know is that it is incredibly safe to welcome refugees, and they benefit the economy. 
 
 **Project structure:** 
 * Opening: Imagine fleeing your home. 
 * Set-up: We all know the altruistic reasons to resettle refugees to the US. But you might not know how bringing refugees to our community helps you. 
-*“Ah Ha” Moment #1: 
+* “Ah Ha” Moment #1: 
     * Myth: Bringing in refugees will just let in terrorists. 
     * Fact: A robust vetting process makes resettling refugees safe.
 * “Ah Ha” Moment #2: 
     * Myth: Bringing in refugees just costs us money and is a drain on our economy.
     * Fact: Refugees pay more in taxes than they receive and they help grow our economy.
-* The Reality: Despite raising the refugee admission ceiling, we are not bringing in many refugees. 
+* The Problem Today: Despite raising the refugee admission ceiling, we are not bringing in many refugees into the U.S.. 
 * Call-to-Action: You can support refugees in Pittsburgh through Hello Neighbor. Follow them on Instagram at @helloneighborhq to learn how you can volunteer. 
 
 # Initial Sketches
 
 **Fact: A robust vetting process makes resettling refugees safe.**
 
-To demonstrated thiis long vetting process, I will show a timeline. The major impact comes at the end with the years 2024 and 2025; this feels like a  long time from now, which illustrates how long the vetting process takes.
+To demonstrate the long vetting process, I will show a timeline. The major impact hits at the end when the audience will see the years 2024 and 2025; this is designed to feel like a long time from now, which illustrates how long the vetting process takes.
 
 ![IMG-1955](https://user-images.githubusercontent.com/112270597/192164980-9ad8963a-45b9-4d2e-8681-54275ce9d637.jpg)
 
@@ -27,7 +27,7 @@ To demonstrated thiis long vetting process, I will show a timeline. The major im
 
 **Fact: Refugees pay more in taxes than they receive.**
 
-This barchart sets up a compairson between the general U.S. Population and Refugees per capital. 
+This barchart sets up a compairson between Refugees and the general U.S. Population per capita. 
 
 ![IMG-1957](https://user-images.githubusercontent.com/112270597/192165020-c19f3737-2685-4d13-8b11-85a9c40e78f6.jpg)
 
@@ -41,7 +41,7 @@ This chart grounds the problem in today. We know the altrustic reasons to resett
 
 **Refugee Vetting Process** 
 
-To visualize the refugee vetting process, I’ll use information from U.S. Citizenship and Immigration Services that explains the process. This information is written out, and I plan to present it more visually and in an estimated timeline. While this won’t use numeric data, it will use qualitative information in an “idea illustration" and show non-statistical information. 
+To visualize the refugee vetting process, I’ll use information from U.S. Citizenship and Immigration Services that explains the process. This information is written out, and I plan to present it in a visual manner, in an estimated timeline. While this won’t use numeric data, it will use qualitative information in an “idea illustration" and show non-statistical information. 
 
 Information Source: [U.S. Citizenship and Immigration Services, “Refugee Processing and Security Screening”](https://www.uscis.gov/humanitarian/refugees-and-asylum/refugees/refugee-processing-and-security-screening)
 
