@@ -71,3 +71,8 @@ I will use Shorthand for the main medium. To determine the flow of the page, I w
 Quantitative charts will be created in Tableau, and qualitative information presented through Canva designs. These will first be thought through with sketches. 
 
 Photography will be an important element as well. Images in the public domain or with a Creative Commons license will be used.
+
+# User Feedback
+Users were engaged by this information and charts. They viewed it as important information and liked the call-to-action. 
+
+All constructive feedback focused on the timeline. They would like to know how many refugees start the process and what percentage of refugees get through the U.S.'s exhaustive screening process to be resettled. This could possibly by show in a unit type graph at the start and end. I will do some research to see what data I can find. 
