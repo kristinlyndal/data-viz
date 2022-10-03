@@ -383,6 +383,8 @@ Changes I plan on implementing based on user feedback:
 
 # Personas
 
+I created two personas. One who is a retired woman focused on volunteering in her community, and one who is a younger man focused on staying up-to-date on news and his career.
+
 <img width="1290" alt="Screen Shot 2022-10-03 at 6 33 20 PM" src="https://user-images.githubusercontent.com/112270597/193697734-c2b23d02-4d0a-42dd-a4f1-3b866a0ba5a7.png">
 
 <img width="1290" alt="Screen Shot 2022-10-03 at 6 38 28 PM" src="https://user-images.githubusercontent.com/112270597/193698344-4e5ae718-4f67-4770-8224-a639a29fffe5.png">
