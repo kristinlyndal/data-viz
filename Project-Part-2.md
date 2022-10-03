@@ -336,17 +336,14 @@ My first interview was with a 30s male, who identifies as a liberal. He voluntee
 | To understand the emotional impact   | There's a lot of information in the process, but I guess it takes a long time for refugees to get resettled. It's an ongoing problem, and not a short term one.        |
 | To understand the strengths     | I think what resonates is, how long it takes for a refugee to get resettled.<br /> <br /> The myths and the facts were backed up really well.
       |
-| To understand what was clear and what wasn’t   | Clear: the process that the refugees have to take to be resettled.<br /><br />Unclear: the only thing that was unclear was the second table with the refugees, because it looked like all the black refugee spots were resettled except for the two. 
-        |
-| To understand where the gaps of information are     | Why were there so many unfilled spots? How can the UN give refugee status, but not give clearance to resettle them. <br /><br />The last graph, the scale of that on your computer was small relative to the data. And there was a lot of text on it; I couldn’t read it all.
-       |
-| To understand what should be improved upon with my visuals and charts  | I know it's just a draft, but the one about taxes. By the time you got to the bottom I had to remember which one was the refugees. As long as that's all fitting on one screen, then that's fine.       |
-| To catch any final thoughts that my questions might have missed     | How many refugees spots that were available. The rest of the world has to deal with all the rest of the the refugees.<br /><br />It’s the sheer numbers that were surprising.
-      |
+| To understand what was clear and what wasn’t   | Clear: the process that the refugees have to take to be resettled.<br /><br />Unclear: the only thing that was unclear was the second table with the refugees, because it looked like all the black refugee spots were resettled except for the two.  |
+| To understand where the gaps of information are     | Why were there so many unfilled spots? How can the UN give refugee status, but not give clearance to resettle them. <br /><br />The last graph, the scale of that on your computer was small relative to the data. And there was a lot of text on it; I couldn’t read it all. |
+| To understand what should be improved upon with my visuals and charts  | I know it's just a draft, but the one about taxes. By the time you got to the bottom I had to remember which one was the refugees. As long as that's all fitting on one screen, then that's fine. |
+| To catch any final thoughts that my questions might have missed     | How many refugees spots that were available. The rest of the world has to deal with all the rest of the the refugees.<br /><br />It’s the sheer numbers that were surprising. |
 
 ## User Interview #2
 
-
+My second interview was with a 30s female, who identifies as a liberal. She volunteers for an arts organization. Her news sources are NPR and The New York Times.
 
 | GOAL   | FEEDBACK |
 | ----------- | ----------- |
@@ -360,7 +357,7 @@ My first interview was with a 30s male, who identifies as a liberal. He voluntee
 
 ## User Interview #3
 
-
+My third interview was with a 70s female who identifies as an independent voter. She volunteers for her church, a counseling center, an education organization, and she runs a free head and neck cancer support group. Her news sources are the local newspaper and articles on Apple News.
 
 | GOAL   | FEEDBACK |
 | ----------- | ----------- |
