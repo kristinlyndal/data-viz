@@ -374,9 +374,9 @@ My third interview was with a 70s female who identifies as an independent voter.
 # Next Steps
 
 Changes I plan on implementing based on user feedback:
-* Revise Unit Charts: In the second unit chart, I will change the color of the people icons to grey. I may do this for the first unit chart too. 
-* Add context: I will add copy about why there are many unfilled spots for those who would like to read more.
-* Revise Taxes Graph: I will make the bottom of the graph line up and the top show the difference. Then I will adjust the title to better call out that this is what is spent and taxed per capita.
-* When presenting the Taxes Graph: I will call out my source.
-* Revise the layout of the Timeline: The timeline is overwhelmingly effective and the aspect that has the most impact. I plan to remove the added text on the left side and just focus on the timeline. I think there is enough information as is. 
-* Revise Unfilled Spots Graph: I will adjust the text to focus more on the unfilled spots and less on the Biden administration since it is not the focus of my presentation. 
+* **Revise Unit Charts:** In the second unit chart, I will change the color of the people icons to grey. I may do this for the first unit chart too. 
+* **Add context:** I will add copy about why there are many unfilled spots for those who would like to read more.
+* **Revise Taxes Graph:** I will make the bottom of the graph line up and the top show the difference. Then I will adjust the title to better call out that this is what is spent and taxed per capita.
+* **When presenting the Taxes Graph:** I will call out my source.
+* **Revise the layout of the Timeline:** The timeline is overwhelmingly effective and the aspect that has the most impact. I plan to remove the added text on the left side and just focus on the timeline. I think there is enough information as is. 
+* **Revise Unfilled Spots Graph:** I will adjust the text to focus more on the unfilled spots and less on the Biden administration since it is not the focus of my presentation. 
