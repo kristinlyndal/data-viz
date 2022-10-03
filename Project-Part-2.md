@@ -325,7 +325,7 @@ I selected three people who I know are interested in volunteerism or human right
 
 ## User Interview #1
 
-My first interview was with a 30s male, who identifies as a liberal. He volunteers for an education organization. His news sources are NPR and Axios. 
+My first interview was with a 40s male, who identifies as a liberal. He volunteers for an education organization. His news sources are NPR and Axios. 
 
 | GOAL   | FEEDBACK |
 | ----------- | ----------- |
@@ -357,11 +357,11 @@ My third interview was with a 70s female who identifies as an independent voter.
 
 | GOAL   | FEEDBACK |
 | ----------- | ----------- |
-| To understand what my  “Ah Ha” moment is      | Title       |
-| To understand the emotional impact   | Text        |
-| To understand the strengths     | Title       |
-| To understand what was clear and what wasn’t   | Text        |
-| To understand where the gaps of information are     | Title       |
-| To understand what should be improved upon with my visuals and charts  | Text        |
-| To catch any final thoughts that my questions might have missed     | Title       |
+| To understand what my  “Ah Ha” moment is      | How sad it is for refugees to legally be able to come into this country, and I would like to see them be able to legally enter. <br /><br />It also is a long process. I didn't realize it was so long.      |
+| To understand the emotional impact   | I would like to see politicians focus on legislation to help them smooth the transition.        |
+| To understand the strengths     | How long it takes to become a legal immigrant struck me. The numbers that are not being met now, the levels that they have to go through to get there. I agree that we need to have guidelines, but it seems to be severe.      |
+| To understand what was clear and what wasn’t   | Clear: the process of becoming an immigrant<br /><br />Unclear: Sometimes the numbers of those little people were difficult to take in. Did that represent the number of people? I didn’t have time to count them.         |
+| To understand where the gaps of information are     | Was there a discrepancy in the timeline? It takes some three years to get in?<br /><br />It was a lot of information. I would benefit by listening to it again.       |
+| To understand what should be improved upon with my visuals and charts  | No, I think the visuals were focused. <br /><br />I see visuals are imperative.       |
+| To catch any final thoughts that my questions might have missed     | I was surprised by the numbers that we have not achieved that this year.       |
 
