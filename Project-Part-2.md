@@ -10,7 +10,11 @@ I selected three people who I know are interested in volunteerism or human right
 
 # Interview Script
 
-| Syntax      | Description |
+| GOAL      | QUESTIONS |
 | ----------- | ----------- |
-| Header      | Title       |
+| To understand what my  “Ah Ha” moment is      | What sticks in your mind?       |
+|To understand the emotional impact   | How do you feel after seeing this presentation?        |
+| Paragraph   | Text        |
+| Paragraph   | Text        |
+| Paragraph   | Text        |
 | Paragraph   | Text        |
