@@ -319,12 +319,9 @@ I selected three people who I know are interested in volunteerism or human right
 |To understand the emotional impact   | How do you feel after seeing this presentation?        |
 | To understand the strengths   | What resonated with you about the presentation? What worked well?        |
 | To understand what was clear and what wasn’t | What was clear and easy to understand? What was unclear?  |
-| To understand where the gaps of information are | What questions did you have during or after the presentation? <br /> Was there anything that you were unsure of that needed more explanation?
-| To understand what should be improved upon with my visuals and charts | Were there any visuals where your eyes were darting around a lot? <br />
-Do the visualizations support the presentation?<br />
-How can I improve the visuals? 
-| To catch any final thoughts that my questions might have missed | What surprised you? <br />
-Is there anything I didn’t ask you about that you want to discuss? |
+| To understand where the gaps of information are | What questions did you have during or after the presentation? <br /> Was there anything that you were unsure of that needed more explanation? |
+| To understand what should be improved upon with my visuals and charts | Were there any visuals where your eyes were darting around a lot? <br />Do the visualizations support the presentation?<br />How can I improve the visuals? |
+| To catch any final thoughts that my questions might have missed | What surprised you? <br />Is there anything I didn’t ask you about that you want to discuss? |
 
 ## User Interview #1
 
@@ -334,8 +331,7 @@ My first interview was with a 30s male, who identifies as a liberal. He voluntee
 | ----------- | ----------- |
 | To understand what my  “Ah Ha” moment is      | How few refugees we’ve resettled.    |
 | To understand the emotional impact   | There's a lot of information in the process, but I guess it takes a long time for refugees to get resettled. It's an ongoing problem, and not a short term one.        |
-| To understand the strengths     | I think what resonates is, how long it takes for a refugee to get resettled.<br /> <br /> The myths and the facts were backed up really well.
-      |
+| To understand the strengths     | I think what resonates is, how long it takes for a refugee to get resettled.<br /> <br /> The myths and the facts were backed up really well. |
 | To understand what was clear and what wasn’t   | Clear: the process that the refugees have to take to be resettled.<br /><br />Unclear: the only thing that was unclear was the second table with the refugees, because it looked like all the black refugee spots were resettled except for the two.  |
 | To understand where the gaps of information are     | Why were there so many unfilled spots? How can the UN give refugee status, but not give clearance to resettle them. <br /><br />The last graph, the scale of that on your computer was small relative to the data. And there was a lot of text on it; I couldn’t read it all. |
 | To understand what should be improved upon with my visuals and charts  | I know it's just a draft, but the one about taxes. By the time you got to the bottom I had to remember which one was the refugees. As long as that's all fitting on one screen, then that's fine. |
@@ -347,13 +343,13 @@ My second interview was with a 30s female, who identifies as a liberal. She volu
 
 | GOAL   | FEEDBACK |
 | ----------- | ----------- |
-| To understand what my  “Ah Ha” moment is      | Title       |
-| To understand the emotional impact   | Text        |
-| To understand the strengths     | Title       |
-| To understand what was clear and what wasn’t   | Text        |
-| To understand where the gaps of information are     | Title       |
-| To understand what should be improved upon with my visuals and charts  | Text        |
-| To catch any final thoughts that my questions might have missed     | Title       |
+| To understand what my  “Ah Ha” moment is      | The amount of time it takes to resettle a refugee.      |
+| To understand the emotional impact   | The problem is more nuanced than what is discussed in the media.       |
+| To understand the strengths     | I liked the visual representation of the number of refugees. I thought that was really effective. <br /><br />It was easy to correlate the number with how many people are actually behind that. And then, when you put the colored green section for the amount that we're actually being resettled in the United States. It just showed very easily and simply the small number of refugees that we're accepting in the United States versus the amount that are ready to be resettled.   |
+| To understand what was clear and what wasn’t   | Clear: the process that the refugees have to take to be resettled.<br /><br />Unclear: I thought that the first point was hard to follow a little bit. The text with the myth was clear. But when we got to the diagram I felt that it was hard to really look at that diagram, assess exactly what was going on with the revenue versus the taxes.<br /><br />I feel like I needed maybe a little bit more time to take that in. Or maybe I needed it to be explained in a little bit of a different way.|
+| To understand where the gaps of information are     | My questions were all in the first section. I didn't have the clear sense of where that data was like coming from in terms of like the revenue versus. Oh, I see your source now.<br /><br />he second section was so much clearer that that even thinking about the presentation of the whole, it it made like the first point, stick out, is not being as comprehensive. |
+| To understand what should be improved upon with my visuals and charts  | My eyes darted around in the first one with the taxes and the revenues.         |
+| To catch any final thoughts that my questions might have missed     | You didn't ask me about if it was clear to read the text, and if the colors were okay. I didn't have any problem with any of that.       |
 
 ## User Interview #3
 
