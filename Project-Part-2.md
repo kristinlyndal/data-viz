@@ -16,8 +16,7 @@ I selected three people who I know are interested in volunteerism or human right
 |To understand the emotional impact   | How do you feel after seeing this presentation?        |
 | To understand the strengths   | What resonated with you about the presentation? What worked well?        |
 | To understand what was clear and what wasn’t | What was clear and easy to understand? What was unclear?  |
-| To understand where the gaps of information are | What questions did you have during or after the presentation? 
-Was there anything that you were unsure of that needed more explanation?
+| To understand where the gaps of information are | What questions did you have during or after the presentation? <br /> Was there anything that you were unsure of that needed more explanation?
 | To understand what should be improved upon with my visuals and charts | Were there any visuals where your eyes were darting around a lot?
 Do the visualizations support the presentation?
 How can I improve the visuals? 
