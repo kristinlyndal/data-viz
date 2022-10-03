@@ -380,3 +380,9 @@ Changes I plan on implementing based on user feedback:
 * **When presenting the Taxes Graph:** I will call out my source.
 * **Revise the layout of the Timeline:** The timeline is overwhelmingly effective and the aspect that has the most impact. I plan to remove the added text on the left side and just focus on the timeline. I think there is enough information as is. 
 * **Revise Unfilled Spots Graph:** I will adjust the text to focus more on the unfilled spots and less on the Biden administration since it is not the focus of my presentation. 
+
+# Personas
+
+<img width="1290" alt="Screen Shot 2022-10-03 at 6 33 20 PM" src="https://user-images.githubusercontent.com/112270597/193697734-c2b23d02-4d0a-42dd-a4f1-3b866a0ba5a7.png">
+
+<img width="1290" alt="Screen Shot 2022-10-03 at 6 38 28 PM" src="https://user-images.githubusercontent.com/112270597/193698344-4e5ae718-4f67-4770-8224-a639a29fffe5.png">
