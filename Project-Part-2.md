@@ -21,7 +21,7 @@ I selected three people who I know are interested in volunteerism or human right
 | To understand the strengths   | What resonated with you about the presentation? What worked well?        |
 | To understand what was clear and what wasn’t | What was clear and easy to understand? What was unclear?  |
 | To understand where the gaps of information are | What questions did you have during or after the presentation? <br /> Was there anything that you were unsure of that needed more explanation? |
-| To understand what should be improved upon with my visuals and charts | Were there any visuals where your eyes were darting around a lot? <br />Do the visualizations support the presentation?<br />How can I improve the visuals? |
+| To understand what should be improved upon with my visuals and charts | Were there any visuals where your eyes were darting around a lot? <br /> Do the visualizations support the presentation? <br />How can I improve the visuals? |
 | To catch any final thoughts that my questions might have missed | What surprised you? <br />Is there anything I didn’t ask you about that you want to discuss? |
 
 ## User Interview #1
@@ -69,6 +69,7 @@ My third interview was with a 70s female who identifies as an independent voter.
 ## In-Class Group Interview
 
 I also had a chance to review my wireframe and draft presentation with my in-class group. This included two international students, who are interested in public policy and are tech savvy women. 
+
 | GOAL   | FEEDBACK |
 | ----------- | ----------- |
 | To understand what my  “Ah Ha” moment is | The thing that stuck with them most vividly were the two unit charts. It was especially exciting to show them these as it had been their suggestion last week! |
