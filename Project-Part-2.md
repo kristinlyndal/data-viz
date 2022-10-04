@@ -103,3 +103,13 @@ I created two personas. One who is a retired woman focused on volunteering in he
 <img width="1290" alt="Screen Shot 2022-10-03 at 6 33 20 PM" src="https://user-images.githubusercontent.com/112270597/193697734-c2b23d02-4d0a-42dd-a4f1-3b866a0ba5a7.png">
 
 <img width="1290" alt="Screen Shot 2022-10-03 at 6 38 28 PM" src="https://user-images.githubusercontent.com/112270597/193698344-4e5ae718-4f67-4770-8224-a639a29fffe5.png">
+
+# Mood Words
+
+In lieu of creating a mood board, I did want to take the time to think about the look and feel of my final project.
+
+**Colors:** Black, Grey, White, Dark Blue, Green to highlight
+
+The refugee crisis is bleak, and as one of the users said, it’s a long-term problem that won’t be solved soon. The color scheme should represent this through use of darker colors. However, the first priority is readability.
+
+**Imagery:** Images of refugees from different parts of the world and dark textures. 
