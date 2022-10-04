@@ -77,7 +77,7 @@ I also had a chance to review my wireframe and draft presentation with my in-cla
 | To understand the strengths | The opening line is a strength and drew them in. |
 | To understand what was clear and what wasn’t | Several charts that the title needs to be reworked and made more clear. |
 | To understand where the gaps of information are | They said they would like to know more abut the story of what is like for refugees during the long resettlement process. They would like to know more about what can be done to help solve this problem as well. |
-| To understand what should be improved upon with my visuals and charts | Chart titles can be make more clear and succint.< br /><br />They commented on the large amount of white space in my Tableau graph and showed me how to make this adjustment. That was awesome! |
+| To understand what should be improved upon with my visuals and charts | Chart titles can be make more clear and succint.<br />They commented on the large amount of white space in my Tableau graph and showed me how to make this adjustment. That was awesome! |
 
 
 # Key Findings
