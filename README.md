@@ -1,9 +1,16 @@
 # data-viz
 # Telling Stories with Data, Fall 2022
 
-Live site>> [https://kristinlyndal.github.io/data-viz/](https://kristinlyndal.github.io/data-viz/) 
+## Portfolio 
 
-Data Visualization>> [Government Debt](/GovernmentDebt.md)
+### Data Story: [Imagine Fleeing Your Home: How Resettling Refugees Can Benefit You](https://carnegiemellon.shorthandstories.com/imagine-fleeing-your-home/)
+My final project focused on dispelling myths about refugee resettlement. Explore the behind-the-scenes of the process: [Part 1](https://kristinlyndal.github.io/data-viz/Project-Part-1.html) >> [Part 2](https://kristinlyndal.github.io/data-viz/Project-Part-2.html) >> [Part 3](https://kristinlyndal.github.io/data-viz/Project-Part-3.html)
+
+### [Critique and Reimagine Data Visualization](refugees.md)
+In this exercise, I found a chart on refugee resettlement data in the U.S. and reimagined how I could tell a more timely story with it. 
+
+### [Government Debt Visualization](GovernmentDebt.md)
+This exercise analyzed Government Debt data from OEDC in different visualization applications, including Flourish and Tableau. 
 
 ## About Me
 <b>Kristin L Garbarino (She/Her)</b>
@@ -24,14 +31,3 @@ As a board member of Hello Neighbor, Kristin is committed to improving the exper
 As a data-driven marketing professional, I know how important visuals are when presenting data! What I don't know, as well as I need to, is how to create those visuals myself. So far in my graduate program, I've taken classes in design, statistics, and data. Now, in my final semester, I'm excited to bring everything together in this data visualization course. 
 
 I hope to learn how to create high-quality, engaging, and accurate visuals myself. I plan to put these skills into action by presenting marketing data in visually poignant and easy-to-read ways in my presentation decks. 
-
-## Portfolio 
-
-### Data Story: [Imagine Fleeing Your Home: How Resettling Refugees Can Benefit You](https://carnegiemellon.shorthandstories.com/imagine-fleeing-your-home/)
-My final project focused on dispelling myths about refugee resettlement. Explore the behind-the-scenes of the process: [Part 1](https://kristinlyndal.github.io/data-viz/Project-Part-1.html) >> [Part 2](https://kristinlyndal.github.io/data-viz/Project-Part-2.html) >> [Part 3](https://kristinlyndal.github.io/data-viz/Project-Part-3.html)
-
-### [Critique and Reimagine Data Visualization](refugees.md)
-In this exercise, I found a chart on refugee resettlement data in the U.S. and reimagined how I could tell a more timely story with it. 
-
-### [Government Debt Visualization](GovernmentDebt.md)
-This exercise analyzed Government Debt data from OEDC in different visualization applications, including Flourish and Tableau. 
