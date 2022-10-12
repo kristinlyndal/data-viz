@@ -1,6 +1,6 @@
 <h2>Menu</h2>
 
-Data Story: Imagine Fleeing Your Home: How Resettling Refugees Can Benefit You
+Data Story: [Imagine Fleeing Your Home: How Resettling Refugees Can Benefit You](https://carnegiemellon.shorthandstories.com/imagine-fleeing-your-home/)
 
 Explore the Process: Part 1 >> [Part 2] (/data-viz/Project-Part-2) >> Part 3
 
@@ -8,7 +8,7 @@ About the Author
 
 <h2>The Inspiration for the Topic</h2>
 
-“Imagine Fleeing Your Home: How Resettling Refugees Can Benefit You” in many ways started in 2017 when I started volunteering for Hello Neighbor as a mentor family. My husband and I were paired with a family from Rwanda. This life changing experience both educated me on what was happening on a large scale and personalized it in an individual way. 
+[“Imagine Fleeing Your Home: How Resettling Refugees Can Benefit You”](https://carnegiemellon.shorthandstories.com/imagine-fleeing-your-home/) in many ways started in 2017 when I started volunteering for Hello Neighbor as a mentor family. My husband and I were paired with a family from Rwanda. This life changing experience both educated me on what was happening on a large scale and personalized it in an individual way. 
 
 It was during my mentor orientation that I learned about how extensive the vetting process is. I had no idea prior, so I knew this would be valuable information for policy students and potential advocates. 
 
@@ -33,16 +33,17 @@ Read more about the data I collected and my early visual sketches in Part 1: htt
 User Testing has been a critical part of this project. I’ve been able to learn about how the visuals and content lands and where the gaps are. This has allowed me to tweak the site and hone in on the most powerful items. 
 
 Key takeaways from my testing included:
-The two key points that stuck with users was unanimous: how long the process is to be resettled and how few refugees are being resettled in the U.S. This helped me focus my one-minute presentation on what would be most impactful. 
-Simplify chart titles: users struggled to read all of the text on my charts as I was presenting to them. This convinced me that I needed to simplify my chart text and add additional context to the paragraphs above or under the charts. 
+* The two key points that stuck with users was unanimous: how long the process is to be resettled and how few refugees are being resettled in the U.S. This helped me focus my one-minute presentation on what would be most impactful. 
+* Simplify chart titles: users struggled to read all of the text on my charts as I was presenting to them. This convinced me that I needed to simplify my chart text and add additional context to the paragraphs above or under the charts. 
 
 Read more about my User Testing findings in Part 2: https://kristinlyndal.github.io/data-viz/Project-Part-2 
 
 <h2>The Audience and CTA</h2>
 
 I have two primary goals for this presentation and site:
-Dispel myths about refugee resettlement
-Grow the volunteer based for Hello Neighbor
+
+1. Dispel myths about refugee resettlement
+2. Grow the volunteer based for Hello Neighbor
 
 The prime audience is someone in Pittsburgh who is open to learning about refugee resettlement. 
 
