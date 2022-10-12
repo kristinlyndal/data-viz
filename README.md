@@ -27,11 +27,11 @@ I hope to learn how to create high-quality, engaging, and accurate visuals mysel
 
 ## Portfolio 
 
-### Assignment 1
-Forthcoming in Fall 2022
+### [Government Debt Visualization](GovernmentDebt.md)
+This exercise analyzed Government Debt data from OEDC in different visualization applications, including Flourish and Tableau. 
 
-### Assignment 2
-Forthcoming in Fall 2022
+### Data Story: [Imagine Fleeing Your Home: How Resettling Refugees Can Benefit You](https://carnegiemellon.shorthandstories.com/imagine-fleeing-your-home/)
+My final project focused on dispelling myths about refugee resettlement. Explore the behind-the-scenes of the process: [Part 1](https://kristinlyndal.github.io/data-viz/Project-Part-1.html) >> [Part 2](https://kristinlyndal.github.io/data-viz/Project-Part-2.html) >> [Part 3](https://kristinlyndal.github.io/data-viz/Project-Part-3.html)
 
 ### Final Project
 Forthcoming in Fall 2022
