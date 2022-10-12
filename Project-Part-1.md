@@ -1,3 +1,11 @@
+<h2>Menu</h2>
+
+Data Story: [Imagine Fleeing Your Home: How Resettling Refugees Can Benefit You](https://carnegiemellon.shorthandstories.com/imagine-fleeing-your-home/)
+
+Explore the Process: [Part 1](https://kristinlyndal.github.io/data-viz/Project-Part-1.html) >> [Part 2](https://kristinlyndal.github.io/data-viz/Project-Part-2.html) >> [Part 3](https://kristinlyndal.github.io/data-viz/Project-Part-3.html)
+
+[Home Page & About the Author](https://kristinlyndal.github.io/data-viz/)
+
 # Outline 
 
 **High-level summary:** 
