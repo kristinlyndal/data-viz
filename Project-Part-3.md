@@ -2,9 +2,9 @@
 
 Data Story: [Imagine Fleeing Your Home: How Resettling Refugees Can Benefit You](https://carnegiemellon.shorthandstories.com/imagine-fleeing-your-home/)
 
-Explore the Process: [Part 1](https://kristinlyndal.github.io/data-viz/Project-Part-1.html) >> [Part 2] (/data-viz/Project-Part-2.html) >> Part 3
+Explore the Process: [Part 1](https://kristinlyndal.github.io/data-viz/Project-Part-1.html) >> [Part 2] (https://kristinlyndal.github.io/data-viz/Project-Part-2.html) >> [Part 3](https://kristinlyndal.github.io/data-viz/Project-Part-3.html)
 
-About the Author
+Home Page & About the Author
 
 <h2>The Inspiration for the Topic</h2>
 
@@ -26,7 +26,7 @@ For the unfilled refugee spots, this was informed by an earlier class project.
 
 I also thought about the content that should support the structure of the site and the visuals. Throughout the process, I’ve been reading articles and taking notes, allowing me to slowly hone the content.
 
-Read more about the data I collected and my early visual sketches in Part 1: https://kristinlyndal.github.io/data-viz/Project-Part-1.html
+Read more about the data I collected and my early visual sketches in [Part 1](https://kristinlyndal.github.io/data-viz/Project-Part-1.html)
 
 <h2>User Testing</h2>
 
@@ -36,7 +36,7 @@ Key takeaways from my testing included:
 * The two key points that stuck with users was unanimous: how long the process is to be resettled and how few refugees are being resettled in the U.S. This helped me focus my one-minute presentation on what would be most impactful. 
 * Simplify chart titles: users struggled to read all of the text on my charts as I was presenting to them. This convinced me that I needed to simplify my chart text and add additional context to the paragraphs above or under the charts. 
 
-Read more about my User Testing findings in Part 2: https://kristinlyndal.github.io/data-viz/Project-Part-2 
+Read more about my User Testing findings in [Part 2](https://kristinlyndal.github.io/data-viz/Project-Part-2)
 
 <h2>The Audience and CTA</h2>
 
