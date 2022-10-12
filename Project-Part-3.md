@@ -2,7 +2,7 @@
 
 Data Story: Imagine Fleeing Your Home: How Resettling Refugees Can Benefit You
 
-Explore the Process: Part 1 >> Part 2 >> Part 3
+Explore the Process: Part 1 >> [Part 2] (/data-viz/Project-Part-2) >> Part 3
 
 About the Author
 
